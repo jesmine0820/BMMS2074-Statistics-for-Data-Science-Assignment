@@ -25,18 +25,6 @@ This repository contains assignments completed as part of the **Statistics for D
 
 ---
 
-## 📚 Assignment Overview
-
-This section contains the assignments completed throughout the course.
-
-| Assignment | Description |
-|---|---|
-| Assignment 1 | *Add assignment title and description* |
-| Assignment 2 | *Add assignment title and description* |
-| Assignment 3 | *Add assignment title and description* |
-
----
-
 ## 📖 Learning Outcomes
 
 Through these assignments, I aim to develop practical skills in:
