@@ -1,4 +1,4 @@
-# 📊 Statistics for Data Science — Assignment
+# 📊 BMMS2074 Statistics for Data Science — Assignment
 
 This repository contains assignments completed as part of the **Statistics for Data Science** course. The projects focus on applying statistical methods, data analysis techniques, and statistical modelling to solve real-world problems using programming and data-driven approaches.
 
